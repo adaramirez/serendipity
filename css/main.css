@@ -1,0 +1,9 @@
+div#results > div.products {
+    margin-bottom: 15px;
+    display: inline-block;
+}
+
+a{
+    color: black;
+    font-family: 'Poppins', sans-serif;
+}
